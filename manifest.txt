@@ -1657,3 +1657,11 @@ xmasdoorwreath
 xylophone
 yellow.berry
 yellowidtag
+Barrel_1
+Barrel_2
+Barrel_oil1
+Elite_Crate
+Locked_Crate
+Military_Crate
+Recycler_icon
+supply-drop1
