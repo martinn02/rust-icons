@@ -1,0 +1,17 @@
+settings.png
+palette.png
+keyboard.png
+cross.png
+check.png
+home.png
+user (1).png
+user.png
+settings-sliders.png
+settings_t0.png
+settings_t1.png
+settings_t2.png
+settings_t3.png
+settings_t4.png
+settings_t5.png
+settings_t6.png
+settings_t7.png
